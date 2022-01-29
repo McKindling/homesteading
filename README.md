@@ -32,7 +32,7 @@ Resources:
 ### Gardening
 - [Video - RED Gardens | Making Soil Blocks](https://www.youtube.com/watch?v=xLbAkqau_MI)
 - [Video - RED Gardens |  12 Things I Learned in 2020](https://www.youtube.com/watch?v=MJMHILfUrJ8)
-- ![[Screen Shot 2021-09-22 at 8.49.12 AM.png]]
+- ![[/attachments/Screen Shot 2021-09-22 at 8.49.12 AM.png]]
 
 ### Composting
  - [Video - RED Gardens | One Rule Composting](https://www.youtube.com/watch?v=SROtDjwGFO)
@@ -63,9 +63,9 @@ Resources:
 - [Video - Integrating Livestock into Your Resilient Home Acreage or Farm  | Tacota Coen](https://www.youtube.com/watch?v=BTUiPV6OZRw)
 	- How do I integrate livestock into my context?
 		- Understand your holistic context
-			- ![[Screen Shot 2021-09-21 at 3.13.45 PM.png]]
-			- ![[Screen Shot 2021-09-21 at 3.12.27 PM.png]]
-			- ![[Screen Shot 2021-09-21 at 3.15.22 PM.png]]
+			- ![[/attachments/Screen Shot 2021-09-21 at 3.13.45 PM.png]]
+			- ![/attachments/[Screen Shot 2021-09-21 at 3.12.27 PM.png]]
+			- ![[/attachments/Screen Shot 2021-09-21 at 3.15.22 PM.png]]
 		- Define your holistic goal
 		- Understand each animal's zone of brilliance
 		- Undertstand the rules for multispecies negotiation
@@ -144,28 +144,28 @@ Goats are another ruminant that provide value in their ability to eat plants and
 
 ## Shrubs
 - Elderberry [SilverRun](https://silverrunforestfarm.org/nursery/corneliancherry)
-	- Plant for watershed medicine, for chop-and-drop mulch, for beautiful shelter, and because Elderberry is amazing! ![[Screen Shot 2022-01-19 at 14.54.03.png]]
+	- Plant for watershed medicine, for chop-and-drop mulch, for beautiful shelter, and because Elderberry is amazing! ![[/attachments/Screen Shot 2022-01-19 at 14.54.03.png]]
 	- The roots offer stability to streambanks and degraded sites
 	- The light wood first grows amazingly fast as succulent fleshy green, which we coppice to make wonderful mulch that reinvigorates new shoots. The dense Honeysuckle family member houses birds and other animals and shades flowing water.
 - Nanking Cherry [HumbleAbode](https://humbleabodenursery.com/product/nanking-cherry/)
-	- ![[Screen Shot 2022-01-19 at 16.10.13.png]]
-	- ![[Screen Shot 2022-01-19 at 16.10.29.png]]
+	- ![[/attachments/Screen Shot 2022-01-19 at 16.10.13.png]]
+	- ![[/attachments/Screen Shot 2022-01-19 at 16.10.29.png]]
 - Hazlenuts [NutsandBolts](https://www.nutsandboltsnursery.com/shop/p/hazelnut)
 - Black Currant - [Interwoven](https://www.interwovenpermaculture.com/store/p55/riverview.html#/)
 - 
 - Illinois Bundleflower [SilverRun](https://silverrunforestfarm.org/nursery/illinois-bundleflower)
 	- Plant for the late summer frills, for the rich ruminant fodder, and for nitrogen-fixing support for meadows and forest gardens!
 	- Hardy from Zones 3-9. Up to 4 feet tall. Self-pollinating.
-	- ![[Screen Shot 2022-01-19 at 15.29.31.png]]
+	- ![[/attachments/Screen Shot 2022-01-19 at 15.29.31.png]]
 -  Baptisia [SilverRun](https://silverrunforestfarm.org/nursery/baptisia)
 	- Plant for the deep-rooted nitrogen-fixation, for rattles and spires of blue flowers, for chop-and-drop biomass and natural native dyes!
-	- ![[Screen Shot 2022-01-19 at 15.31.48.png]]
+	- ![[/attachments/Screen Shot 2022-01-19 at 15.31.48.png]]
 -  Black Raspberry [SilverRun](https://silverrunforestfarm.org/nursery/blackraspberry)
 	- Plant them for ecological succession in thickets and hedges, for fresh picking while walking by, for jams and drying for winter, and the dark purple health!
 	- Hardy from Zones 5-8. Canes can be up to 10 feet long.
 - Beebalm [SilverRun](https://silverrunforestfarm.org/nursery/beebalm)
 	- Plant for hummingbirds, for inviting insects to keep down garden pests, and simply because we need more comforting beauty in our lives!
-	- ![[Screen Shot 2022-01-19 at 15.34.42.png]]
+	- ![[/attachments/Screen Shot 2022-01-19 at 15.34.42.png]]
 - American Plum[Future Forest](https://www.futureforestplants.com/shop/p/l3aab4wy5alrw7psysbv833hlyadz0)
 - Beach Plum[Future Forest](https://www.futureforestplants.com/shop/p/flc93iq2jcyyfadg7wbq5ea7s9oktr)
 - Tons by https://plantingjustice.org/
@@ -179,7 +179,7 @@ Goats are another ruminant that provide value in their ability to eat plants and
 - Comfrey
 	- Plant for the taprooted compost, for the living mulch, for bone-knitting, spider-sheltering, and soil-welding!
 	- Hardy from Zones 4-9. Up to 2 feet tall and 3-4 feet wide.
-	- ![[Screen Shot 2022-01-19 at 15.37.32.png]]
+	- ![[/attachments/Screen Shot 2022-01-19 at 15.37.32.png]]
 - Mint [SilverRun](https://silverrunforestfarm.org/nursery/mint)
 - American Groundnut [Interwoven](https://www.interwovenpermaculture.com/store/p8/groundnut.html#/)
 - Edible Pollinator Favorites [Edgewood](https://edgewood-nursery.com/shop/edible-pollinator-favorites-seed-collection?category=Collections)
@@ -193,5 +193,5 @@ Goats are another ruminant that provide value in their ability to eat plants and
 	- Ornamental with beautifully curved thorns.
 	- It can be planted as a hedge to create a living barbed fence.
 	- No pest or disease issues
-	- ![[Screen Shot 2022-01-19 at 15.56.08.png]]
+	- ![[/attachments/Screen Shot 2022-01-19 at 15.56.08.png]]
 - 

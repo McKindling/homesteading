@@ -32,7 +32,7 @@ Resources:
 ### Gardening
 - [Video - RED Gardens | Making Soil Blocks](https://www.youtube.com/watch?v=xLbAkqau_MI)
 - [Video - RED Gardens |  12 Things I Learned in 2020](https://www.youtube.com/watch?v=MJMHILfUrJ8)
-- ![[/attachments/Screen Shot 2021-09-22 at 8.49.12 AM.png]]
+- ![plant deficiency chart](/attachments/plant-deficiency-chart.png)
 
 ### Composting
  - [Video - RED Gardens | One Rule Composting](https://www.youtube.com/watch?v=SROtDjwGFO)
@@ -64,8 +64,7 @@ Resources:
 	- How do I integrate livestock into my context?
 		- Understand your holistic context
 			- ![Holistic Context](/attachments/holistic-context.png)
-			- ![/attachments/[Screen Shot 2021-09-21 at 3.12.27 PM.png]]
-			- ![[/attachments/Screen Shot 2021-09-21 at 3.15.22 PM.png]]
+			- ![energy to permanance](/attachments/energy-to-permanence.png)
 		- Define your holistic goal
 		- Understand each animal's zone of brilliance
 		- Undertstand the rules for multispecies negotiation
@@ -144,19 +143,19 @@ Goats are another ruminant that provide value in their ability to eat plants and
 
 ## Shrubs
 - Elderberry [SilverRun](https://silverrunforestfarm.org/nursery/corneliancherry)
-	- Plant for watershed medicine, for chop-and-drop mulch, for beautiful shelter, and because Elderberry is amazing! ![[/attachments/Screen Shot 2022-01-19 at 14.54.03.png]]
+	- Plant for watershed medicine, for chop-and-drop mulch, for beautiful shelter, and because Elderberry is amazing! ![elderberry](/attachments/elderberry.png)
 	- The roots offer stability to streambanks and degraded sites
 	- The light wood first grows amazingly fast as succulent fleshy green, which we coppice to make wonderful mulch that reinvigorates new shoots. The dense Honeysuckle family member houses birds and other animals and shades flowing water.
 - Nanking Cherry [HumbleAbode](https://humbleabodenursery.com/product/nanking-cherry/)
-	- ![[/attachments/Screen Shot 2022-01-19 at 16.10.13.png]]
-	- ![[/attachments/Screen Shot 2022-01-19 at 16.10.29.png]]
+	- ![Nanking Cherry](/attachments/nanking-cherry-1.png)
+	- ![Nanking Cherry](/attachments/nanking-cherry-2.png)
 - Hazlenuts [NutsandBolts](https://www.nutsandboltsnursery.com/shop/p/hazelnut)
 - Black Currant - [Interwoven](https://www.interwovenpermaculture.com/store/p55/riverview.html#/)
 - 
 - Illinois Bundleflower [SilverRun](https://silverrunforestfarm.org/nursery/illinois-bundleflower)
 	- Plant for the late summer frills, for the rich ruminant fodder, and for nitrogen-fixing support for meadows and forest gardens!
 	- Hardy from Zones 3-9. Up to 4 feet tall. Self-pollinating.
-	- ![[/attachments/Screen Shot 2022-01-19 at 15.29.31.png]]
+	- ![Illinois Bundleflower](/attachments/bundleflower.png)
 -  Baptisia [SilverRun](https://silverrunforestfarm.org/nursery/baptisia)
 	- Plant for the deep-rooted nitrogen-fixation, for rattles and spires of blue flowers, for chop-and-drop biomass and natural native dyes!
 	- ![[/attachments/Screen Shot 2022-01-19 at 15.31.48.png]]

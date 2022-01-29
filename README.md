@@ -63,7 +63,7 @@ Resources:
 - [Video - Integrating Livestock into Your Resilient Home Acreage or Farm  | Tacota Coen](https://www.youtube.com/watch?v=BTUiPV6OZRw)
 	- How do I integrate livestock into my context?
 		- Understand your holistic context
-			- ![[/attachments/Screen Shot 2021-09-21 at 3.13.45 PM.png]]
+			- ![Holistic Context](/attachments/holistic-context.png)
 			- ![/attachments/[Screen Shot 2021-09-21 at 3.12.27 PM.png]]
 			- ![[/attachments/Screen Shot 2021-09-21 at 3.15.22 PM.png]]
 		- Define your holistic goal

@@ -193,5 +193,4 @@ Goats are another ruminant that provide value in their ability to eat plants and
 	- Ornamental with beautifully curved thorns.
 	- It can be planted as a hedge to create a living barbed fence.
 	- No pest or disease issues
-	- ![[/attachments/Screen Shot 2022-01-19 at 15.56.08.png]]
-- 
+	- ![Flying Dragon Orange](/attachments/Screen Shot 2022-01-19 at 15.56.08.png)

@@ -24,9 +24,12 @@ The knowledge in this base is limited to the author(s) experience or knowledge o
 - [Tree Crops: A Permanent Agriculture](https://www.amazon.com/Tree-Crops-Agriculture-Russell-Smith/dp/1951682092)
 -  [Mark Shepard | Water for Any Farm](https://www.amazon.com/Water-Any-Farm-Mark-Shepard/dp/1601731469)
 
+# Current Experimental Projects
+
+
 # Succession Planting
 Resources:
-- [From Abundance Agrofrestry](keybase://team/land_planning/.kbfs_autogit/homesteading/Books/abundance-agroforestry-a-syntropic-farming-guidebook.pdf)
+- [From Abundance Agrofrestry](./library/abundance-agroforestry-a-syntropic-farming-guidebook.pdf)
 - [Permaculture Principles - Video playlist by Oregon State University](https://www.youtube.com/watch?v=TTES_ZoioYk&list=PL2fCGQa2PY7DUTYGzmy9_5hmSSF_5yujE)
 - https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/8-accelerating-succession-and-evolution/
 
@@ -68,6 +71,29 @@ Resources:
 
 ## SilvoPasture
 - [USDA Silvopasture Handbook](https://www.fs.usda.gov/nac/assets/documents/morepublications/silvopasturehandbook.pdf)
+
+## General Pasture Considerations
+Bermuda is a common pasture grass on most land you may purchase. Not only is Bermuda an aggressive grass type, Bermuda out-competes other grasses when regularly cut low. Because the [conventional model](#Conventional-Model) often overgrazes pasture and big agriculture demands quanity, not quality in hay, there is a high liklihood that the pasture you purchase will be dominated by bermuda grass. 
+### Methods of Livestock Grazing
+#### High Density, Intense Rotational Grazing (HDIRG)
+**Soil Regerative Ability**: A+
+**Labor Requirement** : Very High. 
+
+Rotational Grazing is a practice where livestock are given a small portion of land to graze upon. Animals are regularly and quickly moved to new sections, sometimes several times a day if the herd is large enough. Rotational grazing forces the livestock to eat all the vegation uniformly instead of eating only their favorite sections. Because the area is confined, the animals move in a mob and crush grass down to cover the soil, providing protection for the soil. Animals are moved when the grass is down to ~4 inches in height which is ideal for the grass to regrow. Anything much lower than 4 inches requires an extraordinary amount of energy from the root system, slowing down regrowth and depleting energy storage. Decreased energy storage reduces the liklihood of surviving hazards like heavy wear, flooding, or drought. 
+
+Rotational grazing is a regenerative process for the soil because it contributes large amounts of organic material (manure, urine, and trampled grass) back to the soil and gives the grass a long rest period before it is grazed again. The other benefit is that the parasite lifecycle is heavily disrupted in two ways: Since many parasites have their highest concentration in the first two inches of grass, animals have a lesser exposure to this height because they are moved before the grass is grazed this low. Secondly, after a parasite leaves a host through manure there is a larvae stage in which the parasite must grow and be re-ingested. Rotational grazing moves the animal away from the same site for 40-90 days, leaving very few if any parasites alive by the time the animal is re-introduced to the same area of pasture. 
+
+The labor involved can be reduced with a semi-permanent fencing setup. 
+
+#### Hybrid Model of HDIRG
+**Soil Regerative Ability**: Testing. Hoping for B+ or higher.
+**Labor Requirement** : 20-30 minutes/day to 30-60 minutes/week. 
+
+The hybrid model is an attempt to retain as many aspects of the HDIRG model while reducing the daily workload. Moving animals every 1-3 days and retaining grass above four inches is possible but the herd mentality will not be present.  
+
+#### Conventional-Model
+
+
 ## Contour Mapping
 - https://contourmapgenerator.com/
 - 
@@ -77,9 +103,9 @@ Resources:
 https://websoilsurvey.sc.egov.usda.gov/App/WebSoilSurvey.aspx
 
 ## Pond Management
-# Livestock Management
+## Livestock Management
 
-## Electric Wire
+### Electric Wire
 - Electric netting can be purchased from [Premier One](https://www.premier1supplies.com/). They are also a good source and price for most all products not listed by other competitors below. 
 - [Powerflex](https://powerflexfence.com/collections/portable-fencing) is a good location for reels, step-in posts, and more. I do not recommend the [Power Post](https://powerflexfence.com/collections/powerpost/products/powerpost-reel-stand-multi-function-post) because the insulators for the wire have worn away from friction in two of mine, causing a short. 
 - Timeless fence has [the best PVC-based permanent fencing](https://timelessfencesystem.com/shop/) and has a Greg Judy stamp of approval. 
@@ -87,7 +113,7 @@ https://websoilsurvey.sc.egov.usda.gov/App/WebSoilSurvey.aspx
 
 Get an energizer that is much higher in power than you think you will need. Leaves, dirt (especially from pigs rooting), frost, rain, and snow will all build up on your fence and put a heavy load on the fence. A weak electric fence can be undo your electric fence training and it is hard to re-teach some animals to respect electric again. 
 
-### Training-on-Electric-Wire
+#### Training-on-Electric-Wire
 The goal is to introduce the electric shock to the animal such that the shock is consistent and expected and the animal reacts to the shock by retreating, not lunging forward. 
 
 Setup a small, permanent paddock that gives the animal a small amount of room. Inside the paddock, along the perimeter, setup electric wire/fencing in the same manner you wish to train the animal(s) on. There should be a minimal gap between the electric fencing and permanent fencing to prevent the animal from leaping forward. 
@@ -95,12 +121,12 @@ Setup a small, permanent paddock that gives the animal a small amount of room. I
 After oen to two days the animal should understand that the fencing causes an electric shock, will keep a respectful distance from the fencing, and will jump away from the fencing if shocked. 
 
 
-## Multi-Species Grazing
+### Multi-Species Grazing
 [The Livestock Conservancy](https://livestockconservancy.org/) has a lot of great info on heritage breeds. 
-### Cattle
+#### Cattle
 Dexter cattle are popular with homesteaders because they are small and gentle, and with the correct line, can be easily milked. Some dexter are bred to carry the A2/A2 gene. 
 
-### Goats
+#### Goats
 Goats are another ruminant that provide value in their ability to eat plants and weeds that cattle and sheep will not eat. Goats have about a 60% browse/40% grass diet, however, despite popular belief, goats are very picky eaters. If left to free-range, goats will travel around to all their favorite plants and eat them until they have destroyed them, then move to their next favorite plants and so on until they have turned the area into a desert. Proper management is essential and this is most easily accomplished with rotational paddock grazing. If a goat is limited to an area they will eat the weeds and woody material other animals will not, but do not forget they still want 40% of their diet to be grass overtime.
 
 - Fencing
@@ -114,9 +140,9 @@ Goats are another ruminant that provide value in their ability to eat plants and
 	- Salt Lick Year-round (no copper). It is important to note that goats and sheep need copper in their diet at around 20 weeks gestation for proper umbilical cord development. 
 - Maintenance
 	- Hoof trimming one to two times a month, depending on your land. 
-### Sheep
+#### Sheep
 Katadhin sheep are a good beginner meat sheep. They are parasite resistant, lamb without assistance, are naturally pulled (no horns), and shed their winter coat on their own. 
-### Chickens
+#### Chickens
 Predator and solutions: 
  - Daytime:
 	 - Hawks - Chickens in close proximity to large animals helps. Otherwise ample arial protection from a coop or trees. Roosters are effective but only after they can properly crow. Some people have had success with varying their schedule and being outside regularly. 
@@ -124,17 +150,10 @@ Predator and solutions:
 	 - Coyotes - One to two Jerusalem donkeys or a guardian dog is usually ample protection. 
  - Nighttime: 
 	 - Owls, racoons, coyotes, possums and more can be solved with adequate coop protection. 
-### Pigs
+#### Pigs
 - [Web - KuneKune general breeding and winter care](http://raisingkunekunes.com/kunekune/planning-for-farrowing-season-and-pregnant-sows/)
 - [Web - The most important things for Kunekune care](http://raisingkunekunes.com/kunekune/the-most-important-things/)
 
-
-## Clothing
-## Power
-## Security
-## Sewage
-## Structures
-## Water Filtration
 ## Tractors
 The first decision to whether to get a new or a used tractor. Most new tractors can be financed with 0% APR. The next question is how much HP you will have in the tractor and the PTO -- the backend device that can power different extensions like a tiller or woodchipper. Ask people who have a tractor how much they have and if they would want more or less. Generally 50hp and below is a good threshold since attachments have to be fit to the PTO range of the tractor; you cannot run an 15-30HP PTO attachment on a 47HP tractor. 
 
@@ -253,3 +272,17 @@ Good nurseries include:
 	- It can be planted as a hedge to create a living barbed fence.
 	- No pest or disease issues
 	- ![Flying Dragon Orange](/attachments/Screen Shot 2022-01-19 at 15.56.08.png)
+
+
+## Clothing
+Coming soon; or [contribute](#Contributing) your own work
+## Power
+Coming soon; or [contribute](#Contributing) your own work
+## Security
+Coming soon; or [contribute](#Contributing) your own work
+## Sewage
+Coming soon; or [contribute](#Contributing) your own work
+## Structures
+Coming soon; or [contribute](#Contributing) your own work
+## Water Filtration
+Coming soon; or [contribute](#Contributing) your own work

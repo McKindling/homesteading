@@ -12,50 +12,45 @@ The easiest way to contribute to this guide is to click on the README.md file an
 
 The best way to contribute is to clone this repository to your computer and make edits in a text editor that excels at markdown, like [Obsidian](https://obsidian.md/) or [Joplin](https://joplinapp.org/). When you are done, fork the project and issue a pull request. This process has a small learning curve but there any many benefits to it ([Tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github))
 
-# Homesteading Knowledge Base
+## About
 The knowledge in this base is limited to the author(s) experience or knowledge on the subject. For example, the [Goat section](#Goats) currently only has information on Nigerian Dwarves. This is not because Nigerian Dwarves are the best goat and other goats are not worth discussing, rather it is because Nigerian Dwarves are the only goat the author has experience with. Help make this document better by [contributing](#Contributing). 
 ## Homesteading Influencers
  - Mark Shepherd. Expert in land-design for maximum capture of water and sunlight. Successful alleycropping silvopasture. [Youtube](https://www.youtube.com/watch?v=qnnOec8m3gM)
  - Tacota Coen. Expert in integrating complex livestock systems to benefit each other and increase racher effeciency and decrease unnecessary work. [Recommended Video](https://www.youtube.com/watch?v=CloGPgGE9WQ), [Channel](https://www.youtube.com/channel/UC02O3FxxOh4dPid5NGwdK5A)
 
+# Library
+- [Abundance Agroforestry |  syntropic farming guidebook](./library/abundance-agroforestry-a-syntropic-farming-guidebook.pdf)
+- [Designing Polycultures](./library/designing-polycultures.pdf)
 
-## Succession Planting
+# Succession Planting
 Resources:
 - [From Abundance Agrofrestry](keybase://team/land_planning/.kbfs_autogit/homesteading/Books/abundance-agroforestry-a-syntropic-farming-guidebook.pdf)
 - [Permaculture Principles - Video playlist by Oregon State University](https://www.youtube.com/watch?v=TTES_ZoioYk&list=PL2fCGQa2PY7DUTYGzmy9_5hmSSF_5yujE)
 - https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/8-accelerating-succession-and-evolution/
 
-## Farming
-### Principles
+# Farming
+## High-level water and design
 - [Video - Mark Shepard | Pioneer Agroforestry Farm Tour Video Series](https://www.youtube.com/watch?v=xBRnPcZ8xUo )
 - [Video - Justin Rhodes | How Mark Shephard’s Farm THRIVES under Sheer. Total. Utter. Neglect](https://www.youtube.com/watch?v=RePJ3rJa1Wg)
-### Gardening
+## Gardening
 - [Video - RED Gardens | Making Soil Blocks](https://www.youtube.com/watch?v=xLbAkqau_MI)
 - [Video - RED Gardens |  12 Things I Learned in 2020](https://www.youtube.com/watch?v=MJMHILfUrJ8)
 - ![plant deficiency chart](/attachments/plant-deficiency-chart.png)
 
-### Composting
+## Composting
  - [Video - RED Gardens | One Rule Composting](https://www.youtube.com/watch?v=SROtDjwGFO)
  - [Video - RED Gardens |  Dealing With Rats in the Compost](https://www.youtube.com/watch?v=S1x3FEwfqek)
 
 
-### SilvoPasture
-- [USDA Silvopasture Handbook](https://www.fs.usda.gov/nac/assets/documents/morepublications/silvopasturehandbook.pdf)
-## Land and Water Management
-### Contour Mapping
-- https://contourmapgenerator.com/
-### Soil Regeneration
-- [USDA Cover Crop Calculator](https://www.ars.usda.gov/ARSUserFiles/30640500/CSC/CSC.htm)
-
-### Principles and Examples
+# Land and Water Management
+## Principles and Examples
 
 - [Book - Mark Shepard | Water for Any Farm](https://www.amazon.com/Water-Any-Farm-Mark-Shepard/dp/1601731469)
 - [Video - Open Oregon State | Drought Proof Farms Course Intro](https://www.youtube.com/watch?v=Qz76UKXTTkM&list=PL2fCGQa2PY7AjkepQNbwatKWUkiY3FwXL)
 - [Video - Mark Shepard |  Designing Your Perenial Farm](https://www.youtube.com/watch?v=Nnoeb1x-XVA)
 - [Video - Mark Shepard | Restoration Agriculture](https://www.youtube.com/watch?v=kb_t-sVVzF0)
-## Pond Management
-## Livestock Management
-### Overview and Principles
+
+### Tacota Coen - Design Rules and Applications
 - [Video - Gardening With Livestock | Tacota Coen](https://www.youtube.com/watch?v=Bbwuxybeb-4)
 	- Design Rule #1 - If there is a yield of an element that cannot be put to productive use it results in drudgery and then pollution
 	- Design Rule #2 - Any need of an element not met by the ecosystem results in pollution and then drudgery
@@ -69,10 +64,40 @@ Resources:
 		- Understand each animal's zone of brilliance
 		- Undertstand the rules for multispecies negotiation
 
+## SilvoPasture
+- [USDA Silvopasture Handbook](https://www.fs.usda.gov/nac/assets/documents/morepublications/silvopasturehandbook.pdf)
+## Contour Mapping
+- https://contourmapgenerator.com/
+- 
+## Soil Regeneration
+- [USDA Cover Crop Calculator](https://www.ars.usda.gov/ARSUserFiles/30640500/CSC/CSC.htm)
+## Soil Survey for your area
+https://websoilsurvey.sc.egov.usda.gov/App/WebSoilSurvey.aspx
+
+## Pond Management
+# Livestock Management
+
 ## Electric Wire
+- Electric netting can be purchased from [Premier One](https://www.premier1supplies.com/). They are also a good source and price for most all products not listed by other competitors below. 
+- [Powerflex](https://powerflexfence.com/collections/portable-fencing) is a good location for reels, step-in posts, and more. I do not recommend the [Power Post](https://powerflexfence.com/collections/powerpost/products/powerpost-reel-stand-multi-function-post) because the insulators for the wire have worn away from friction in two of mine, causing a short. 
+- Timeless fence has [the best PVC-based permanent fencing](https://timelessfencesystem.com/shop/) and has a Greg Judy stamp of approval. 
+
+
+Get an energizer that is much higher in power than you think you will need. Leaves, dirt (especially from pigs rooting), frost, rain, and snow will all build up on your fence and put a heavy load on the fence. A weak electric fence can be undo your electric fence training and it is hard to re-teach some animals to respect electric again. 
+
 ### Training-on-Electric-Wire
+The goal is to introduce the electric shock to the animal such that the shock is consistent and expected and the animal reacts to the shock by retreating, not lunging forward. 
+
+Setup a small, permanent paddock that gives the animal a small amount of room. Inside the paddock, along the perimeter, setup electric wire/fencing in the same manner you wish to train the animal(s) on. There should be a minimal gap between the electric fencing and permanent fencing to prevent the animal from leaping forward. 
+
+After oen to two days the animal should understand that the fencing causes an electric shock, will keep a respectful distance from the fencing, and will jump away from the fencing if shocked. 
+
+
 ## Multi-Species Grazing
+[The Livestock Conservancy](https://livestockconservancy.org/) has a lot of great info on heritage breeds. 
 ### Cattle
+Dexter cattle are popular with homesteaders because they are small and gentle, and with the correct line, can be easily milked. Some dexter are bred to carry the A2/A2 gene. 
+
 ### Goats
 Goats are another ruminant that provide value in their ability to eat plants and weeds that cattle and sheep will not eat. Goats have about a 60% browse/40% grass diet, however, despite popular belief, goats are very picky eaters. If left to free-range, goats will travel around to all their favorite plants and eat them until they have destroyed them, then move to their next favorite plants and so on until they have turned the area into a desert. Proper management is essential and this is most easily accomplished with rotational paddock grazing. If a goat is limited to an area they will eat the weeds and woody material other animals will not, but do not forget they still want 40% of their diet to be grass overtime.
 
@@ -84,11 +109,19 @@ Goats are another ruminant that provide value in their ability to eat plants and
 - Feed Requirements
 	- Summer: Rotational Graze
 	- Winter: Supplemental Hay
-	- Salt Lick Year-round
+	- Salt Lick Year-round (no copper). It is important to note that goats and sheep need copper in their diet at around 20 weeks gestation for proper umbilical cord development. 
 - Maintenance
 	- Hoof trimming one to two times a month, depending on your land. 
 ### Sheep
+Katadhin sheep are a good beginner meat sheep. They are parasite resistant, lamb without assistance, are naturally pulled (no horns), and shed their winter coat on their own. 
 ### Chickens
+Predator and solutions: 
+ - Daytime:
+	 - Hawks - Chickens in close proximity to large animals helps. Otherwise ample arial protection from a coop or trees. Roosters are effective but only after they can properly crow. Some people have had success with varying their schedule and being outside regularly. 
+	 - Fox - A fox is very effecient and sneakily killing a hen and taking off with it without you ever seeing the fox. Varied schedule and a noisy presence is helpful. 
+	 - Coyotes - One to two Jerusalem donkeys or a guardian dog is usually ample protection. 
+ - Nighttime: 
+	 - Owls, racoons, coyotes, possums and more can be solved with adequate coop protection. 
 ### Pigs
 - [Web - KuneKune general breeding and winter care](http://raisingkunekunes.com/kunekune/planning-for-farrowing-season-and-pregnant-sows/)
 - [Web - The most important things for Kunekune care](http://raisingkunekunes.com/kunekune/the-most-important-things/)
@@ -100,11 +133,40 @@ Goats are another ruminant that provide value in their ability to eat plants and
 ## Sewage
 ## Structures
 ## Water Filtration
+## Tractors
+The first decision to whether to get a new or a used tractor. Most new tractors can be financed with 0% APR. The next question is how much HP you will have in the tractor and the PTO -- the backend device that can power different extensions like a tiller or woodchipper. Ask people who have a tractor how much they have and if they would want more or less. Generally 50hp and below is a good threshold since attachments have to be fit to the PTO range of the tractor; you cannot run an 15-30HP PTO attachment on a 47HP tractor. 
 
+- Extensive details on all tractors: tractordata.com
+- Great shop for limited,  high-quality extensions: goodworkstractors.com
+
+### Best Tractor modifications based on utility:
+- Fill the tires with ballast weight. This is a very inexpensive trick to add stability to your tractor
+- [Lube Shuttle for maintaining your hydraulic parts](https://advancedenginetech.com/product/lube-shuttle-hobby-farming-greasing-kit/)
+
+### Tractor Attachments
+High quality attachments made in the USA can be purchased from [Good Works Tractor](https://goodworkstractors.com/)
 
 ## Weather Data
+[Weather Spark](https://weatherspark.com/) and [Dark Sky](https://darksky.net/) are good sources for historical weather data. 
 
+For storms, RadarScope has the best free offering (lots of tilt and doppler data) and one of the best paid offerings. 
+## Mushrooms
+[Field and Forest](https://www.fieldforest.net/category/growing-outdoors#logs) is a great location for mushroom spawn and educational materials
 ## Trees
+
+Good nurseries include: 
+- [Burnt Ridge Nursery](https://www.burntridgenursery.com/)
+- [PerfectCircleFarm](https://www.perfectcircle.farm/)
+- [SilverRun](https://silverrunforestfarm.org/)
+- [HumbleAbode](https://humbleabodenursery.com)
+- [hiddenspring](http://www.hiddenspringsnursery.com/plants.php)
+- [Quiverwood](https://quiverwoodnursery.com)
+- [Interwoven](https://www.interwovenpermaculture.com)
+- [Future Forest](https://www.futureforestplants.com)
+
+Books: 
+
+- [Tree Crops: A Permanent Agriculture](https://www.amazon.com/Tree-Crops-Agriculture-Russell-Smith/dp/1951682092)
 
 ### Fruit Trees
 - Vermont Wild Apples [PerfectCircleFarm](https://www.perfectcircle.farm/vermont-wild-apples/vermont-wild-apples)

@@ -25,6 +25,12 @@ The knowledge in this base is limited to the author(s) experience or knowledge o
 -  [Mark Shepard | Water for Any Farm](https://www.amazon.com/Water-Any-Farm-Mark-Shepard/dp/1601731469)
 
 # Current Experimental Projects
+- Designing the ultimate trailer coop (coming soon)
+- Designing a multi-animal hub system (coming soon)
+- Pasture seed experimentation with big blue stem, orchard grass, and multiple flowers (coming soon)
+- Large-scale aquaponic system with ponds, switchback steams, trees, and re-circulation pump (coming soon)
+- Hugelkultur garden bed results (coming soon)
+- Mushroom logs (coming soon)
 
 
 # Succession Planting

@@ -21,6 +21,8 @@ The knowledge in this base is limited to the author(s) experience or knowledge o
 # Library
 - [Abundance Agroforestry |  syntropic farming guidebook](./library/abundance-agroforestry-a-syntropic-farming-guidebook.pdf)
 - [Designing Polycultures](./library/designing-polycultures.pdf)
+- [Tree Crops: A Permanent Agriculture](https://www.amazon.com/Tree-Crops-Agriculture-Russell-Smith/dp/1951682092)
+-  [Mark Shepard | Water for Any Farm](https://www.amazon.com/Water-Any-Farm-Mark-Shepard/dp/1601731469)
 
 # Succession Planting
 Resources:
@@ -163,10 +165,6 @@ Good nurseries include:
 - [Quiverwood](https://quiverwoodnursery.com)
 - [Interwoven](https://www.interwovenpermaculture.com)
 - [Future Forest](https://www.futureforestplants.com)
-
-Books: 
-
-- [Tree Crops: A Permanent Agriculture](https://www.amazon.com/Tree-Crops-Agriculture-Russell-Smith/dp/1951682092)
 
 ### Fruit Trees
 - Vermont Wild Apples [PerfectCircleFarm](https://www.perfectcircle.farm/vermont-wild-apples/vermont-wild-apples)
